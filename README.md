@@ -46,5 +46,4 @@ Comparte tus observaciones, lo aprendedido, limitaciones y siguientes pasos.
 * Cristóbal José García García
 * Johana Leilani Aguilar Cruz
 * Mariana Castro Salomón
-* Estudiante 4
 
