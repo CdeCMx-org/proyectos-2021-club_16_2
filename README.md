@@ -43,8 +43,8 @@ Comparte tus observaciones, lo aprendedido, limitaciones y siguientes pasos.
  
 ### Equipo
 
-* Estudiante 1
-* Estudiante 2
-* Estudiante 3
+* Cristóbal José García García
+* Johana Leilani Aguilar Cruz
+* Mariana Castro Salomón
 * Estudiante 4
 
