@@ -18,8 +18,29 @@ lo cual nos permite en un primer avance hacer un conjunto de investigaciones  y 
 
 ![image](https://user-images.githubusercontent.com/89101501/130340693-5621d1c1-9cb8-4f3b-a943-1a43cad141e1.png)
 
+conclusiones 
+![image](https://user-images.githubusercontent.com/89101501/130341754-d020b52e-c6ae-4a3f-b1cd-16a8082adc37.png)
+
+
+
+![image](https://user-images.githubusercontent.com/89101501/130341761-3372431a-cfa9-4695-831a-3e1bbebc6f65.png)
+
+
+
+
+
  EQUIPO
 * Cristóbal José García García
 * Johana Leilani Aguilar Cruz
 * Mariana Castro Salomón
 ![IMAGEN PROYECTO_001](https://user-images.githubusercontent.com/89101501/130341512-ea20610b-75aa-4fcb-8c81-b287ca157be8.png)
+REFERENCIAS 
+Ana Paula Andrade Barreto, Lucimeire Cardoso Duarte, Thiago Cerqueira-Silva , Marcio Andrade Barreto Filho, Aquiles Camelier, Natalia Machado Tavares, Manoel Barral-Netto, Viviane Boaventura, Marcelo Chalhoub Coelho Lima .Síndrome de COVID posaguda, consecuencia de COVID-19 de leve a grave en pacientes brasileños. the prepintserver for health sciences. doi: https://doi.org/10.1101/2021.06.07.21258520
+ Pan F, Ye T, Sun P, et al. Time course of lung changes on chest CT during recovery from 2019 novel coronavirus (COVID-19) pneumonia. Radiology. 2020 Feb 13:200370
+Rubin GD, Ryerson CJ, Haramati LB, et al. The Role of Chest Imaging in Patient Management during the COVID-19 Pandemic: A Multinational Consensus Statement from the Fleischner Society. Chest. 2020;S0012-3692(20)30673-5.
+Ahmed MU, Hanif M, Ali MJ, Haider MA, Kherani D, Memon GM, Karim AH and
+Sattar A Neurological Manifestations of COVID-19 (SARS-CoV-2): A Review. Front.
+Neurol. 2020; 11:518. DOI: https://10.3389/fneur.2020.00518
+Mao L, Jin H, Wang M, Hu Y, Chen S, He Q, et al. Neurologic manifestations of
+hospitalized patients with coronavirus disease 2019 in Wuhan, China. JAMA Neurol. 2020;
+e201127. DOI: https://10.1001/jamaneurol.202 0.11274
