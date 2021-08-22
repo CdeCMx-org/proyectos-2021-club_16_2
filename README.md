@@ -23,4 +23,3 @@ lo cual nos permite en un primer avance hacer un conjunto de investigaciones  y 
 * Johana Leilani Aguilar Cruz
 * Mariana Castro Salomón
 ![IMAGEN PROYECTO_001](https://user-images.githubusercontent.com/89101501/130341512-ea20610b-75aa-4fcb-8c81-b287ca157be8.png)
-
