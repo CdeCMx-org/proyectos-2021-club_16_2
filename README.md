@@ -1,35 +1,17 @@
-## nombre del proyecto
+*SECUELAS POST COVID*
 
-Puede utilizar el [editor en GitHub](https://github.com/CdeCMx-org/templates_paginaweb/edit/main/README.md) para mantener y obtener una vista previa del contenido de su sitio web en archivos Markdown. Siempre que guardes los cambios en este repositorio, GitHub Pages ejecutará [Jekyll](https://jekyllrb.com/) para reconstruir las páginas de su sitio, a partir del contenido de sus archivos Markdown. Puedes escoger otro template en la siguiente página [repository settings](https://github.com/CdeCMx-org/templates_paginaweb/settings/pages). El tema de este template fue guardado en `_config.yml`.
+Las secuelas post covid son el conjunto de padecimientos (signos y síntomas) que se mantienen o incluso inician, después de la infección originada por SARS-CoV-2, a esto también se le llama síndrome post COVID o Long COVID.
 
-El URL generado de tu página lo puedes encontrar en Settings -> Pages. 
+El síndrome post COVID es aquel donde persisten los síntomas de la infección de COVID más allá de 4 semanas después de la infección primaria (Aguirre G,2021).
 
-*Puedes ver los cambios reflejados en la página, solo toma en cuenta que puede tomar unos minutos en cambiar.*
+El conocimiento de las secuelas que puede dejar a su paso por el organismo para la población general, es de vital importancia pues gracias a ello se pueden implementar medidas de apoyo que puedan prevenir la persistencia o generación de estos signos y síntomas. Además, se concientiza a la población, de manera que, refuercen las medidas de prevención para no solo evitar la infección en si misma, sino sus consecuencias.
 
-### Introducción
+La ODS asignada a nuestro club es “Salud y bienestar”, por eso consideramos que difundir información como esta puede generar un amplio impacto al informar a la población sobre este tema, lo cual originará que acaten e implementen de mejor manera las medidas preventivas que se sugieren implementar en esta pandemia, para así evitar la propagación de la infección ocasionada por el virus de SARS-CoV-2, y con ello tambien, sus secuelas y complicaciones.
 
-Describe de qué trata tu proyecto:
-* ¿qué problema vas a abordar?
-* ¿porqué es importante?
-* ¿cómo se relaciona con la **ODS** asignada a tu club? 
-* ¿cómo se relaciona lo aprendido en tu club para resolver el problema que planteaste?
+El club nos ha permitido establecer la relación que existe entre la biología computacional y las enfermedades que aquejan a la población. Es así que las herramientas tecnológicas nos permiten establecer contacto con diferentes grupos de la población, a los cuales se les puede presentar información de manera clara, concisa y ordenada, lo cual, en este caso, puede ayudar a concientizar a estos individuos sobre las consecuencias que implica no solo la infección sino sus secuelas .
 
-### Métodología
-
-Describe los pasos específicos que tomaste para realizar tu proyecto. Trata de hacer una descripción concreta y detallada. Si aplica, puedes incluir un diagrama describiendo el procedimiento. 
-
-### Resultados
-
-Este es el momento en que nos compartas los resultados obtenidos en tu proyecto. Asegurate de incluir material visual (gráficas, fotos, diagramas, tablas). 
-
-Puedes inster imagenes utilizando Markdown `![](Logo_CdeCMx.png)`.
-
-![](Logo_CdeCMx.png)
-
-O utilizando codigo html `<img src="Logo_CdeCMx.png" width=200>`, la ventaja de utilizar html es que le puedes modificar el tamaño utilizando **width**.
-<img src="Logo_CdeCMx.png" width=200>
-
-
+### Métodología  
+### Resultad
 ### Conclusiones
 
 Comparte tus observaciones, lo aprendedido, limitaciones y siguientes pasos. 
@@ -38,9 +20,7 @@ Comparte tus observaciones, lo aprendedido, limitaciones y siguientes pasos.
  1. Para insertar un video de YouTube, en la página de YouTube del video selecciona compartir y selecciona el código de html.
  <iframe width="560" height="315" src="https://www.youtube.com/embed/PLj1-CMNERM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
- 2. Insertar el link de tu video en YouTube, [nuestro video](https://youtu.be/rmXvlBPq24Q).
- 4. Puedes subir el archivo de tu video directamente a Github [instrucciones aquí](https://stackoverflow.com/questions/4279611/how-to-embed-a-video-into-github-readme-md)
- 
+ 2. Insertar el link de tu video en YouTube, [nuestro video]ps://youtu.be/rmttps://stackoverflow.com/questions/4279611/how-to-embed-a-video-into-github-readm
 ### Equipo
 
 * Cristóbal José García García
